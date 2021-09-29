@@ -14,6 +14,6 @@ curl http://localhost:8080/ping
 respuesta: Status: "OK"
 
 4.  Crear un Dockerfile para la aplicación que acabamos de correr en local. Agregar todos los archivos necesarios para que corra cuando se cree un container a partir de la imagen.
-5.  Crear un container a partir de la imagen que recién se creó
-6. Taggear la imagen creada con v1.0
+5.  Taggear la imagen creada con v1.0
+6.  Crear un container a partir de la imagen que recién se creó
 7. Subir la imagen a su cuenta personal de dockerhub   
